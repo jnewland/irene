@@ -1,6 +1,10 @@
 Irene
 =====
 
+#### Current Visible Radar
+
+<img src="http://www.ssd.noaa.gov/goes/flt/t2/vis-l.jpg" />
+
 Forecast
 --------
 
